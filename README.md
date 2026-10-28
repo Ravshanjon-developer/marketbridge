@@ -1,5 +1,7 @@
 # MarketBridge — B2C/B2B маркетплейс
 
+**[Открыть демо / Live demo →](https://www.marketbridge.pp.ua)**
+
 ![MarketBridge](screenshots/desktop.jpg)
 
 > 🔒 Это витрина проекта. Исходный код закрыт. Доступ к коду — по запросу: [WhatsApp](https://wa.me/992119985098) · [Telegram](https://t.me/ravshanjonitolibjon) · [Email](mailto:ravg578@gmail.com)
