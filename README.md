@@ -2,7 +2,7 @@
 
 ![MarketBridge](screenshots/desktop.jpg)
 
-> 🔒 Это витрина проекта. Исходный код закрыт. Доступ к коду — по запросу: [Telegram](https://t.me/ravshanjonitolibjon) · [Email](mailto:ravg578@gmail.com)
+> 🔒 Это витрина проекта. Исходный код закрыт. Доступ к коду — по запросу: [WhatsApp](https://wa.me/992119985098) · [Telegram](https://t.me/ravshanjonitolibjon) · [Email](mailto:ravg578@gmail.com)
 > 🔒 This is a project showcase. Source code is private; access on request.
 
 ## 🇷🇺 О проекте
